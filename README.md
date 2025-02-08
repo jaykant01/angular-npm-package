@@ -13,10 +13,10 @@
 
 ## 📥 Installation
 
-1. First Install angular setup
+1. First Install angular setup from your any terminal or shell run this command
 
  npm i angular-setup
 
-2. Go to the dir where you want to create your project and run
+2. Go to the directory where you want to create your project and run this command
 
   npx ng-setup
