@@ -1,11 +1,10 @@
 # 🚀 ng-setup - Angular Project Setup CLI
 
-`ng-setup` is a simple and powerful CLI tool that helps developers set up an Angular project quickly with Tailwind CSS, Firebase, and different styling options.
+`ng-setup` is a simple and powerful CLI tool that helps developers set up an Angular project quickly with Automatic Tailwind CSS configuration.
 
 ## ✨ Features
 - ✅ **Creates a new Angular project** with user-defined project name and CSS preprocessor.
 - 🎨 **Configures Tailwind CSS** automatically.
-- 🔥 **Firebase Setup** (Optional) – Installs Firebase and configures authentication/firestore.
 - 🛠 **Supports CSS preprocessors**: `CSS`, `SCSS`, `SASS`, `LESS`, `STYLUS`.
 - ⚡ **Automatic Angular CLI Installation** if not found.
 
