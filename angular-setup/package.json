@@ -1,6 +1,6 @@
 {
   "name": "angular-setup",
-  "version": "1.0.0",
+  "version": "2.0.1",
   "description": "A CLI tool to set up Angular projects with Tailwind and Firebase.",
   "main": "index.js",
   "bin": {
@@ -10,11 +10,16 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["angular", "cli", "setup", "tailwind", "firebase"],
+  "keywords": [
+    "angular",
+    "cli",
+    "setup",
+    "tailwind",
+    "firebase"
+  ],
   "author": "Jaykant Yadav",
   "license": "ISC",
   "type": "module",
-
   "dependencies": {
     "commander": "^13.1.0",
     "inquirer": "^9.2.0"
