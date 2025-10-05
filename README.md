@@ -4,7 +4,7 @@
 
 ## ✨ Features
 - ✅ **Creates a new Angular project** with user-defined project name and CSS preprocessor.
-- 🎨 **Configures Tailwind CSS** automatically.
+- 🎨 **Configures Tailwind CSS**.
 - 🛠 **Supports CSS preprocessors**: `CSS`, `SCSS`, `SASS`, `LESS`, `STYLUS`.
 - ⚡ **Automatic Angular CLI Installation** if not found.
 
